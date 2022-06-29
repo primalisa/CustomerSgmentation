@@ -3,13 +3,11 @@ import React, { useState } from "react";
 import "./App.css";
 import gender from "./images/Figure_1.png";
 import age from "./images/Figure_2.png";
-import annualincome from "./images/Figure_3.png";
 import spendingscore from "./images/Figure_4.png";
 import visitingfrequency from "./images/Figure_5.png";
 import annualincomevsgender from "./images/Figure_6.png";
 import spendingscorevsgender from "./images/Figure_7.png";
 import kmeans from "./images/Figure_9.png";
-import background from "./images/test3.jpg"
 
 
 
@@ -307,3 +305,4 @@ const App = () => {
 };
 
 export default App;
+
